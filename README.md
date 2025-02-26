@@ -1,1 +1,1 @@
-# ImageTaggingOrganizer_exe
+# ImageTaggingOrganizer
