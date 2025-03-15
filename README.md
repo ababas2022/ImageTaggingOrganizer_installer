@@ -30,9 +30,6 @@ Enjoy an ad-free experience with no tracking of personal data. We recommend that
 ## Support and Contributions
 If you encounter any issues or have feature requests, please [open an issue](https://github.com/ababas2022/ImageTaggingOrganizer_installer/issues) in this repository. Contributions via pull requests are welcome.
 
-## License
-This project is licensed under the [Your License Name] License. (Update this section as needed.)
-
 ---
 
 Thank you for using ImageTaggingOrganizer!
