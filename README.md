@@ -28,7 +28,7 @@ Enjoy an ad-free experience with no tracking of personal data. We recommend that
    Launch the app and follow the on-screen instructions. For first-time users, starting in copy mode with a small folder is recommended before processing larger collections.
 
 ## Support and Contributions
-If you encounter any issues or have feature requests, please [open an issue](https://github.com/ababas2022/ImageTaggingOrganizer_installer/issues) in this repository. Contributions via pull requests are welcome.
+If you encounter any issues or have feature requests, please [open an issue](https://github.com/ababas2022/ImageTaggingOrganizer_installer/issues) in this repository. 
 
 ---
 
