@@ -1,7 +1,7 @@
 # ImageTaggingOrganizer Installer
 
 ## Overview
-ImageTaggingOrganizer is an AI tool designed to sort disorganized image folders by analyzing visual characteristics. Advanced AI models are used, so processing may take some time. New users are advised to start by testing the app in copy mode with a small folder. For those requiring faster performance, a Windows version is available.
+ImageTaggingOrganizer is an AI tool designed to sort disorganized image folders by analyzing visual characteristics. Advanced AI models are used, so processing may take some time. New users are advised to start by testing the app in copy mode with a small folder. There is also an Android version for mobile use.
 
 **Windows Installer (MSIX):**  
 [Download ImageTaggingOrganizer Installer](https://github.com/ababas2022/ImageTaggingOrganizer_installer/releases/tag/v1.0.0.0)
